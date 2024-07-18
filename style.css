@@ -1,5 +1,6 @@
 body {
     height: 200vh;
+    position: relative;
 }
 
 .container {
@@ -30,7 +31,8 @@ body {
 
 .box-3 {
     background-color: hsl(100, 30%, 50%);
-    /* position: absolute; */
+    position: absolute;
+    top: 300px;
 
 }
 
